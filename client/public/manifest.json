@@ -1,0 +1,18 @@
+{
+  "short_name": "EventOS",
+  "name": "EventOS — Offline-First Event Operations System",
+  "description": "Offline-first event operations, live coordination, and incident response platform.",
+  "icons": [
+    {
+      "src": "/eventos-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f0e17",
+  "theme_color": "#6366f1",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
